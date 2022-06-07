@@ -1,5 +1,10 @@
 {
- "versionCode": "7.0",
- "url": "https://www.mediafire.com/file/nckgotzav3c5e9g/•SOCIALTECHVPN+V2•.apk/file",
- "Message": "\n-SOCIALTECHVPN v2 is Back Requested All user\n-Dont Forget Clear Data Before Update\n\n-Thank You Enjoy"
+"newVersion": "7.0",
+"apkUrl": "https://play.google.com/store/apps/details?id=flexing.vpn.ph",
+"versionNotes":"
+• Optimize Add Coins
+• Optimize UI
+• Optimize Connection Status
+• Supported Android 5 & above
+"
 }
